@@ -20,6 +20,7 @@
  */
 function binarySearchIterative($list, $target)
 {
+    //initialize to zero
     $first = 0;
     $last = count($list) - 1;
 
